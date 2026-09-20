@@ -1,0 +1,6 @@
+{
+  "name": "WEDDING PLANNER",
+  "description": "An elegant, romantic wedding planner featuring real-time budget tracking by event, task management, guest hotel and travel logistics with Excel import, and family coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
